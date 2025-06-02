@@ -4,8 +4,6 @@ This machine learning project aims to predict the selling price of used cars bas
 📂 Project Structure
 ● jupyter_file.ipynb: Main Jupyter Notebook containing all the code and analysis.
 
-● models/: Directory to store saved models (if applicable).
-
 ● README.md: Project documentation.
 
 📊 Features Used
