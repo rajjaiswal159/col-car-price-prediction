@@ -53,7 +53,7 @@ Exploratory analysis to understand the structure and types of data.
 
 ●  Tried different regression models
 
-●  Evaluated using R² score, MSE
+●  Evaluated using R² score, MAPE
 
 7. Model Saving
 
