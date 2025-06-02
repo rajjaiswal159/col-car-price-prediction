@@ -1,12 +1,15 @@
 🚗 Old Car Price Prediction
+
 This machine learning project aims to predict the selling price of used cars based on various features like year, present price, kilometers driven, fuel type, etc. The project demonstrates a full ML workflow including data preprocessing, feature engineering, pipeline creation, and model evaluation.
 
 📂 Project Structure
+
 ● jupyter_file.ipynb: Main Jupyter Notebook containing all the code and analysis.
 
 ● README.md: Project documentation.
 
 📊 Features Used
+
 ● Year
 
 ● Present Price
@@ -22,6 +25,7 @@ This machine learning project aims to predict the selling price of used cars bas
 ● Owner
 
 🧪 Workflow Overview
+
 1. Data Understanding
 Exploratory analysis to understand the structure and types of data.
 
@@ -56,6 +60,7 @@ Exploratory analysis to understand the structure and types of data.
 ● Serialized the model using joblib or pickle for deployment
 
 🧰 Tech Stack
+
 ● Python
 
 ● Pandas
@@ -67,6 +72,7 @@ Exploratory analysis to understand the structure and types of data.
 ● Jupyter Notebook
 
 📌 How to Run
+
 1. Clone the repository:
 
 git clone https://github.com/your-username/old-car-price-prediction.git
@@ -80,6 +86,9 @@ pip install -r requirements.txt
 
 jupyter notebook jupyter_file.ipynb
 
+Note: After run the notebook you can save by comment out the last two cells.
+
 📝 License
 This project is open-source and available under the MIT License.
+
 
