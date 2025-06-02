@@ -86,7 +86,7 @@ pip install -r requirements.txt
 
 jupyter notebook jupyter_file.ipynb
 
-Note: After run the notebook you can save by comment out the last two cells.
+Note: After run the notebook you can save the model by comment out the last two cells.
 
 📝 License
 This project is open-source and available under the MIT License.
