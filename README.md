@@ -74,15 +74,11 @@ Exploratory analysis to understand the structure and types of data.
 📌 How to Run
 
 1. Clone the repository:
-
-git clone https://github.com/your-username/old-car-price-prediction.git
+```
+git clone https://github.com/rajjaiswal159/old-car-price-prediction.git
 cd old-car-price-prediction
-
-2. Install the requirements:
-
-pip install -r requirements.txt
-
-3. Run the notebook:
+```
+2. Run the notebook:
 
 jupyter notebook jupyter_file.ipynb
 
